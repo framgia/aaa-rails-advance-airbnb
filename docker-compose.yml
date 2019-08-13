@@ -17,7 +17,7 @@ services:
     volumes:
       - .:/sunbnb
     ports:
-      - "3002:3000"
+      - "3003:3000"
     depends_on:
       - db
     environment:
