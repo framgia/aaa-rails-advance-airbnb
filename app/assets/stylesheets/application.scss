@@ -202,6 +202,14 @@ a {
   display: block;
 }
 
+.card-header.preview {
+  padding: 0;
+
+  img {
+    width: 100%;
+  }
+}
+
 //SIDEBAR
 .sidebar-list {
   padding-left: 0;
